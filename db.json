@@ -1,0 +1,330 @@
+{
+  "teams": [
+    {
+      "id": 1,
+      "team_code": "ARI",
+      "team_name": "Arizona Cardinals",
+      "logo_small": "https://www.fantasynerds.com/images/nfl/teams_small/ARI.gif",
+      "logo_medium": "https://www.fantasynerds.com/images/nfl/teams_mid/ari.png",
+      "logo_standard": "https://www.fantasynerds.com/images/nfl/team_logos/ARI.png",
+      "logo_helmet": "https://www.fantasynerds.com/images/nfl/helmets/ARI.png"
+    },
+    {
+      "id": 2,
+      "team_code": "ATL",
+      "team_name": "Atlanta Falcons",
+      "logo_small": "https://www.fantasynerds.com/images/nfl/teams_small/ATL.gif",
+      "logo_medium": "https://www.fantasynerds.com/images/nfl/teams_mid/atl.png",
+      "logo_standard": "https://www.fantasynerds.com/images/nfl/team_logos/ATL.png",
+      "logo_helmet": "https://www.fantasynerds.com/images/nfl/helmets/ATL.png"
+    },
+    {
+      "id": 3,
+      "team_code": "BAL",
+      "team_name": "Baltimore Ravens",
+      "logo_small": "https://www.fantasynerds.com/images/nfl/teams_small/BAL.gif",
+      "logo_medium": "https://www.fantasynerds.com/images/nfl/teams_mid/bal.png",
+      "logo_standard": "https://www.fantasynerds.com/images/nfl/team_logos/BAL.png",
+      "logo_helmet": "https://www.fantasynerds.com/images/nfl/helmets/BAL.png"
+    },
+    {
+      "id": 4,
+      "team_code": "BUF",
+      "team_name": "Buffalo Bills",
+      "logo_small": "https://www.fantasynerds.com/images/nfl/teams_small/BUF.gif",
+      "logo_medium": "https://www.fantasynerds.com/images/nfl/teams_mid/buf.png",
+      "logo_standard": "https://www.fantasynerds.com/images/nfl/team_logos/BUF.png",
+      "logo_helmet": "https://www.fantasynerds.com/images/nfl/helmets/BUF.png"
+    },
+    {
+      "id": 5,
+      "team_code": "CAR",
+      "team_name": "Carolina Panthers",
+      "logo_small": "https://www.fantasynerds.com/images/nfl/teams_small/CAR.gif",
+      "logo_medium": "https://www.fantasynerds.com/images/nfl/teams_mid/car.png",
+      "logo_standard": "https://www.fantasynerds.com/images/nfl/team_logos/CAR.png",
+      "logo_helmet": "https://www.fantasynerds.com/images/nfl/helmets/CAR.png"
+    },
+    {
+      "id": 6,
+      "team_code": "CHI",
+      "team_name": "Chicago Bears",
+      "logo_small": "https://www.fantasynerds.com/images/nfl/teams_small/CHI.gif",
+      "logo_medium": "https://www.fantasynerds.com/images/nfl/teams_mid/chi.png",
+      "logo_standard": "https://www.fantasynerds.com/images/nfl/team_logos/CHI.png",
+      "logo_helmet": "https://www.fantasynerds.com/images/nfl/helmets/CHI.png"
+    },
+    {
+      "id": 7,
+      "team_code": "CIN",
+      "team_name": "Cincinnati Bengals",
+      "logo_small": "https://www.fantasynerds.com/images/nfl/teams_small/CIN.gif",
+      "logo_medium": "https://www.fantasynerds.com/images/nfl/teams_mid/cin.png",
+      "logo_standard": "https://www.fantasynerds.com/images/nfl/team_logos/CIN.png",
+      "logo_helmet": "https://www.fantasynerds.com/images/nfl/helmets/CIN.png"
+    },
+    {
+      "id": 8,
+      "team_code": "CLE",
+      "team_name": "Cleveland Browns",
+      "logo_small": "https://www.fantasynerds.com/images/nfl/teams_small/CLE.gif",
+      "logo_medium": "https://www.fantasynerds.com/images/nfl/teams_mid/cle.png",
+      "logo_standard": "https://www.fantasynerds.com/images/nfl/team_logos/CLE.png",
+      "logo_helmet": "https://www.fantasynerds.com/images/nfl/helmets/CLE.png"
+    },
+    {
+      "id": 9,
+      "team_code": "DAL",
+      "team_name": "Dallas Cowboys",
+      "logo_small": "https://www.fantasynerds.com/images/nfl/teams_small/DAL.gif",
+      "logo_medium": "https://www.fantasynerds.com/images/nfl/teams_mid/dal.png",
+      "logo_standard": "https://www.fantasynerds.com/images/nfl/team_logos/DAL.png",
+      "logo_helmet": "https://www.fantasynerds.com/images/nfl/helmets/DAL.png"
+    },
+    {
+      "id": 10,
+      "team_code": "DEN",
+      "team_name": "Denver Broncos",
+      "logo_small": "https://www.fantasynerds.com/images/nfl/teams_small/DEN.gif",
+      "logo_medium": "https://www.fantasynerds.com/images/nfl/teams_mid/den.png",
+      "logo_standard": "https://www.fantasynerds.com/images/nfl/team_logos/DEN.png",
+      "logo_helmet": "https://www.fantasynerds.com/images/nfl/helmets/DEN.png"
+    },
+    {
+      "id": 11,
+      "team_code": "DET",
+      "team_name": "Detroit Lions",
+      "logo_small": "https://www.fantasynerds.com/images/nfl/teams_small/DET.gif",
+      "logo_medium": "https://www.fantasynerds.com/images/nfl/teams_mid/det.png",
+      "logo_standard": "https://www.fantasynerds.com/images/nfl/team_logos/DET.png",
+      "logo_helmet": "https://www.fantasynerds.com/images/nfl/helmets/DET.png"
+    },
+    {
+      "id": 12,
+      "team_code": "GB",
+      "team_name": "Green Bay Packers",
+      "logo_small": "https://www.fantasynerds.com/images/nfl/teams_small/GB.gif",
+      "logo_medium": "https://www.fantasynerds.com/images/nfl/teams_mid/gb.png",
+      "logo_standard": "https://www.fantasynerds.com/images/nfl/team_logos/GB.png",
+      "logo_helmet": "https://www.fantasynerds.com/images/nfl/helmets/GB.png"
+    },
+    {
+      "id": 13,
+      "team_code": "HOU",
+      "team_name": "Houston Texans",
+      "logo_small": "https://www.fantasynerds.com/images/nfl/teams_small/HOU.gif",
+      "logo_medium": "https://www.fantasynerds.com/images/nfl/teams_mid/hou.png",
+      "logo_standard": "https://www.fantasynerds.com/images/nfl/team_logos/HOU.png",
+      "logo_helmet": "https://www.fantasynerds.com/images/nfl/helmets/HOU.png"
+    },
+    {
+      "id": 14,
+      "team_code": "IND",
+      "team_name": "Indianapolis Colts",
+      "logo_small": "https://www.fantasynerds.com/images/nfl/teams_small/IND.gif",
+      "logo_medium": "https://www.fantasynerds.com/images/nfl/teams_mid/ind.png",
+      "logo_standard": "https://www.fantasynerds.com/images/nfl/team_logos/IND.png",
+      "logo_helmet": "https://www.fantasynerds.com/images/nfl/helmets/IND.png"
+    },
+    {
+      "id": 15,
+      "team_code": "JAC",
+      "team_name": "Jacksonville Jaguars",
+      "logo_small": "https://www.fantasynerds.com/images/nfl/teams_small/JAC.gif",
+      "logo_medium": "https://www.fantasynerds.com/images/nfl/teams_mid/jac.png",
+      "logo_standard": "https://www.fantasynerds.com/images/nfl/team_logos/JAC.png",
+      "logo_helmet": "https://www.fantasynerds.com/images/nfl/helmets/JAC.png"
+    },
+    {
+      "id": 16,
+      "team_code": "KC",
+      "team_name": "Kansas City Chiefs",
+      "logo_small": "https://www.fantasynerds.com/images/nfl/teams_small/KC.gif",
+      "logo_medium": "https://www.fantasynerds.com/images/nfl/teams_mid/kc.png",
+      "logo_standard": "https://www.fantasynerds.com/images/nfl/team_logos/KC.png",
+      "logo_helmet": "https://www.fantasynerds.com/images/nfl/helmets/KC.png"
+    },
+    {
+      "id": 17,
+      "team_code": "MIA",
+      "team_name": "Miami Dolphins",
+      "logo_small": "https://www.fantasynerds.com/images/nfl/teams_small/MIA.gif",
+      "logo_medium": "https://www.fantasynerds.com/images/nfl/teams_mid/mia.png",
+      "logo_standard": "https://www.fantasynerds.com/images/nfl/team_logos/MIA.png",
+      "logo_helmet": "https://www.fantasynerds.com/images/nfl/helmets/MIA.png"
+    },
+    {
+      "id": 18,
+      "team_code": "MIN",
+      "team_name": "Minnesota Vikings",
+      "logo_small": "https://www.fantasynerds.com/images/nfl/teams_small/MIN.gif",
+      "logo_medium": "https://www.fantasynerds.com/images/nfl/teams_mid/min.png",
+      "logo_standard": "https://www.fantasynerds.com/images/nfl/team_logos/MIN.png",
+      "logo_helmet": "https://www.fantasynerds.com/images/nfl/helmets/MIN.png"
+    },
+    {
+      "id": 19,
+      "team_code": "NE",
+      "team_name": "New England Patriots",
+      "logo_small": "https://www.fantasynerds.com/images/nfl/teams_small/NE.gif",
+      "logo_medium": "https://www.fantasynerds.com/images/nfl/teams_mid/ne.png",
+      "logo_standard": "https://www.fantasynerds.com/images/nfl/team_logos/NE.png",
+      "logo_helmet": "https://www.fantasynerds.com/images/nfl/helmets/NE.png"
+    },
+    {
+      "id": 20,
+      "team_code": "NO",
+      "team_name": "New Orleans Saints",
+      "logo_small": "https://www.fantasynerds.com/images/nfl/teams_small/NO.gif",
+      "logo_medium": "https://www.fantasynerds.com/images/nfl/teams_mid/no.png",
+      "logo_standard": "https://www.fantasynerds.com/images/nfl/team_logos/NO.png",
+      "logo_helmet": "https://www.fantasynerds.com/images/nfl/helmets/NO.png"
+    },
+    {
+      "id": 21,
+      "team_code": "NYG",
+      "team_name": "New York Giants",
+      "logo_small": "https://www.fantasynerds.com/images/nfl/teams_small/NYG.gif",
+      "logo_medium": "https://www.fantasynerds.com/images/nfl/teams_mid/nyg.png",
+      "logo_standard": "https://www.fantasynerds.com/images/nfl/team_logos/NYG.png",
+      "logo_helmet": "https://www.fantasynerds.com/images/nfl/helmets/NYG.png"
+    },
+    {
+      "id": 22,
+      "team_code": "NYJ",
+      "team_name": "New York Jets",
+      "logo_small": "https://www.fantasynerds.com/images/nfl/teams_small/NYJ.gif",
+      "logo_medium": "https://www.fantasynerds.com/images/nfl/teams_mid/nyj.png",
+      "logo_standard": "https://www.fantasynerds.com/images/nfl/team_logos/NYJ.png",
+      "logo_helmet": "https://www.fantasynerds.com/images/nfl/helmets/NYJ.png"
+    },
+    {
+      "id": 23,
+      "team_code": "LV",
+      "team_name": "Las Vegas Raiders",
+      "logo_small": "https://www.fantasynerds.com/images/nfl/teams_small/LV.gif",
+      "logo_medium": "https://www.fantasynerds.com/images/nfl/teams_mid/lv.png",
+      "logo_standard": "https://www.fantasynerds.com/images/nfl/team_logos/LV.png",
+      "logo_helmet": "https://www.fantasynerds.com/images/nfl/helmets/LV.png"
+    },
+    {
+      "id": 24,
+      "team_code": "PHI",
+      "team_name": "Philadelphia Eagles",
+      "logo_small": "https://www.fantasynerds.com/images/nfl/teams_small/PHI.gif",
+      "logo_medium": "https://www.fantasynerds.com/images/nfl/teams_mid/phi.png",
+      "logo_standard": "https://www.fantasynerds.com/images/nfl/team_logos/PHI.png",
+      "logo_helmet": "https://www.fantasynerds.com/images/nfl/helmets/PHI.png"
+    },
+    {
+      "id": 25,
+      "team_code": "PIT",
+      "team_name": "Pittsburgh Steelers",
+      "logo_small": "https://www.fantasynerds.com/images/nfl/teams_small/PIT.gif",
+      "logo_medium": "https://www.fantasynerds.com/images/nfl/teams_mid/pit.png",
+      "logo_standard": "https://www.fantasynerds.com/images/nfl/team_logos/PIT.png",
+      "logo_helmet": "https://www.fantasynerds.com/images/nfl/helmets/PIT.png"
+    },
+    {
+      "id": 26,
+      "team_code": "LAC",
+      "team_name": "Los Angeles Chargers",
+      "logo_small": "https://www.fantasynerds.com/images/nfl/teams_small/LAC.gif",
+      "logo_medium": "https://www.fantasynerds.com/images/nfl/teams_mid/lac.png",
+      "logo_standard": "https://www.fantasynerds.com/images/nfl/team_logos/LAC.png",
+      "logo_helmet": "https://www.fantasynerds.com/images/nfl/helmets/LAC.png"
+    },
+    {
+      "id": 27,
+      "team_code": "SEA",
+      "team_name": "Seattle Seahawks",
+      "logo_small": "https://www.fantasynerds.com/images/nfl/teams_small/SEA.gif",
+      "logo_medium": "https://www.fantasynerds.com/images/nfl/teams_mid/sea.png",
+      "logo_standard": "https://www.fantasynerds.com/images/nfl/team_logos/SEA.png",
+      "logo_helmet": "https://www.fantasynerds.com/images/nfl/helmets/SEA.png"
+    },
+    {
+      "id": 28,
+      "team_code": "SF",
+      "team_name": "San Francisco 49ers",
+      "logo_small": "https://www.fantasynerds.com/images/nfl/teams_small/SF.gif",
+      "logo_medium": "https://www.fantasynerds.com/images/nfl/teams_mid/sf.png",
+      "logo_standard": "https://www.fantasynerds.com/images/nfl/team_logos/SF.png",
+      "logo_helmet": "https://www.fantasynerds.com/images/nfl/helmets/SF.png"
+    },
+    {
+      "id": 29,
+      "team_code": "LAR",
+      "team_name": "Los Angeles Rams",
+      "logo_small": "https://www.fantasynerds.com/images/nfl/teams_small/LAR.gif",
+      "logo_medium": "https://www.fantasynerds.com/images/nfl/teams_mid/lar.png",
+      "logo_standard": "https://www.fantasynerds.com/images/nfl/team_logos/LAR.png",
+      "logo_helmet": "https://www.fantasynerds.com/images/nfl/helmets/LAR.png"
+    },
+    {
+      "id": 30,
+      "team_code": "TB",
+      "team_name": "Tampa Bay Buccaneers",
+      "logo_small": "https://www.fantasynerds.com/images/nfl/teams_small/TB.gif",
+      "logo_medium": "https://www.fantasynerds.com/images/nfl/teams_mid/tb.png",
+      "logo_standard": "https://www.fantasynerds.com/images/nfl/team_logos/TB.png",
+      "logo_helmet": "https://www.fantasynerds.com/images/nfl/helmets/TB.png"
+    },
+    {
+      "id": 31,
+      "team_code": "TEN",
+      "team_name": "Tennessee Titans",
+      "logo_small": "https://www.fantasynerds.com/images/nfl/teams_small/TEN.gif",
+      "logo_medium": "https://www.fantasynerds.com/images/nfl/teams_mid/ten.png",
+      "logo_standard": "https://www.fantasynerds.com/images/nfl/team_logos/TEN.png",
+      "logo_helmet": "https://www.fantasynerds.com/images/nfl/helmets/TEN.png"
+    },
+    {
+      "id": 32,
+      "team_code": "WAS",
+      "team_name": "Washington Football Team",
+      "logo_small": "https://www.fantasynerds.com/images/nfl/teams_small/WAS.gif",
+      "logo_medium": "https://www.fantasynerds.com/images/nfl/teams_mid/was.png",
+      "logo_standard": "https://www.fantasynerds.com/images/nfl/team_logos/WAS.png",
+      "logo_helmet": "https://www.fantasynerds.com/images/nfl/helmets/WAS.png"
+    }
+  ],
+  "players": [
+    {
+      "id": 1,
+      "player": "Derek Jeter",
+      "description": "Cool Player",
+      "team": 21
+    },
+    {
+      "team": "1",
+      "player": "fb",
+      "posistion": "fghfd",
+      "id": 2
+    },
+    {
+      "team": "2",
+      "player": "fb",
+      "posistion": "fghfd",
+      "id": 3
+    },
+    {
+      "team": "1",
+      "player": "Bob",
+      "posistion": "Things",
+      "id": 4
+    },
+    {
+      "team": "1",
+      "player": "s",
+      "posistion": "s",
+      "id": 5
+    },
+    {
+      "team": "5",
+      "player": "DJ Chark",
+      "posistion": "7th round. fun guy",
+      "id": 6
+    }
+  ]
+}
