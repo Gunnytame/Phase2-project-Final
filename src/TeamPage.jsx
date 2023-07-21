@@ -14,9 +14,8 @@ function TeamPage({}) {
 
   const filterPlayer = playerData.filter(player => {
     return player.team === id
-  } 
+  } )
 
-  )
   console.log(filterPlayer)
 
   const[player, setPlayer] = useState("")
@@ -46,13 +45,21 @@ function handleSubmit(e){
        setPlayer(e.target.value)}/>
       <textarea placeholder="What round you're looking at them, and key points you'd like to refernce later..."value={posistion} 
       onChange={(e) =>
-       setPosistion(e.target.value)} rows={10} />
-      <input type="submit" value="Add Player" />
+
+       setPosistion(e.target.value)} rows={5} />
+      <input type="submit" value="Scout 'EM" />
     </form>
     <div>
     {filterPlayer.map(player => {
-        return <div>{player.player}</div> })}
+        return (
+        <div>
+            {player.player}
+
+            <div>^^^</div>
+            <div>{player.posistion}</div>
+        </div> )})}
     </div>
+   
     </>
   );
       }

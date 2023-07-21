@@ -291,40 +291,10 @@
   ],
   "players": [
     {
-      "id": 1,
-      "player": "Derek Jeter",
-      "description": "Cool Player",
-      "team": 21
-    },
-    {
       "team": "1",
-      "player": "fb",
-      "posistion": "fghfd",
-      "id": 2
-    },
-    {
-      "team": "2",
-      "player": "fb",
-      "posistion": "fghfd",
-      "id": 3
-    },
-    {
-      "team": "1",
-      "player": "Bob",
-      "posistion": "Things",
-      "id": 4
-    },
-    {
-      "team": "1",
-      "player": "s",
-      "posistion": "s",
-      "id": 5
-    },
-    {
-      "team": "5",
-      "player": "DJ Chark",
-      "posistion": "7th round. fun guy",
-      "id": 6
+      "player": "james Conner",
+      "posistion": "8th, \nINtresting in the late rounds due to high upside.",
+      "id": 1
     }
   ]
 }
